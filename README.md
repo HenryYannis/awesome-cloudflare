@@ -233,6 +233,7 @@
 | [Dualmark](https://github.com/dodopayments/dualmark) | 开源 AEO（Answer Engine Optimization）基础设施。`@dualmark/cloudflare` 适配器包装任意上游 Worker，在边缘通过 HTTP 内容协商为 AI 爬虫（GPTBot、ClaudeBot、PerplexityBot 等 19 个已知 UA）返回干净的 Markdown 副本，人类访客获得 HTML，同一 URL 双格式。Apache 2.0，npm provenance 签名。 | <https://dualmark.dev> | 维护中 |
 | [shopify-attribution-gap-backend](https://github.com/lsb11/shopify-attribution-gap-backend) | 基于 Cloudflare Workers + D1 的边缘数据收集后端，用于构建开放、透明的 Shopify iOS 归因差距基准。服务端计算归因差距、人工审核机制、中位数聚合，无需服务器。 | <https://stackarchitect.xyz/shopify-ios-attribution-gap-benchmark/> | 维护中 |
 | [OpenConnector](https://github.com/oomol-lab/open-connector) | 可部署到 Cloudflare Workers 的开源 Agent 连接网关，使用 D1 存储连接、授权状态和运行日志，R2 或 KV 暂存文件，通过 MCP、HTTP 和 OpenAPI 提供 SaaS 动作发现与执行。 | | 维护中 |
+| [FlarePanel](https://github.com/HenryYannis/FlarePanel) | 多站点 Cloudflare 管理后台，纯 Pages 部署，无需服务器和构建。用自己的 API Token 登录，集中管理多个网站的评论（D1）、浏览量、会员账号和 R2 文件（支持大文件分片上传），可选 AI 网关配置；仓库附带配套的评论、账号和 AI 网关 Worker。支持简繁英三语和夜间模式，MIT 协议。 | | 维护中 |
 
 ## 文章
 

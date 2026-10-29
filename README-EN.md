@@ -249,7 +249,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [OmniConvert](https://github.com/s87343472/omni-convert) | Free online conversion toolbox deployed on Cloudflare Pages + Workers. Supports file conversion, unit conversion, PWA, multilingual UI, and API/MCP access. | <https://tools.sagasu.art> | Maintaining |
 | [Dualmark](https://github.com/dodopayments/dualmark) | Open-source AEO (Answer Engine Optimization) infrastructure. The `@dualmark/cloudflare` adapter wraps any upstream Worker and serves clean Markdown twins to AI crawlers (GPTBot, ClaudeBot, PerplexityBot, +16 more known UAs) at the edge via HTTP content negotiation, while humans get HTML — same URL, two formats. Apache 2.0, npm provenance attested. | <https://dualmark.dev> | Maintaining |
 | [shopify-attribution-gap-backend](https://github.com/lsb11/shopify-attribution-gap-backend) | Edge data-collection backend on Cloudflare Workers + D1 for an open Shopify iOS attribution-gap benchmark. Server-side gap computation, manual review gate, median aggregation, no server needed. | <https://stackarchitect.xyz/shopify-ios-attribution-gap-benchmark/> | Maintaining |
-
+| [FlarePanel](https://github.com/HenryYannis/FlarePanel) | Serverless admin dashboard for multiple Cloudflare sites, deployed on Pages with no server or build step. Sign in with your own API token to manage comments (D1), page views, members and R2 files (chunked uploads) across sites, plus an optional AI gateway; ships companion comment, account and AI gateway Workers. Chinese/English UI, dark mode, MIT licensed. | | Maintaining |
 
 ## Tutorials
 
